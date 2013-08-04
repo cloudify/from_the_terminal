@@ -1,6 +1,8 @@
 # A Simple Git Powered Blog
 
-[Index](https://github.com/rziehl/from_the_terminal) | [Twitter](https://twitter.com/robziehl)
+[Back to the List](https://github.com/rziehl/from_the_terminal)
+
+* * *
 
 I have three main needs for a blogging system:
 
@@ -57,3 +59,7 @@ an SSH key). This is the setup process:
 Sure, Github Pages exists and I will probably go down that road later
 when I feel like getting more involved in frontend development but right
 now I just want to write and share my thoughts.
+
+* * *
+
+© Robert Ziehl 2013 | [Twitter](https://twitter.com/robziehl)
