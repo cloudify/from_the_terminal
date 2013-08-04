@@ -1,5 +1,7 @@
 # A Simple Git Powered Blog
 
+[Index](https://github.com/rziehl/from_the_terminal) | [Twitter](https://twitter.com/robziehl)
+
 I have three main needs for a blogging system:
 
 * I write my posts in Vim

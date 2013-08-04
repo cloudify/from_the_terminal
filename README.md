@@ -1,6 +1,6 @@
 # From the Terminal
 
-## My thoughts on software development published from the command line
+### My thoughts on software development published from the command line
 
 By [@robziehl](https://twitter.com/robziehl)
 
